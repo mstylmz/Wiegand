@@ -1,2 +1,4 @@
-# Wiegand
-26 Bit Wiegand  Library
+# Wiegand Protocol
+
+
+26 Bit Wiegand Library
