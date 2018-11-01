@@ -8,9 +8,9 @@ Card readers are used to connect fingerprint scanners or other biometric readers
 
 How does the Wiegand Protocol work?
 
-In Wiegand format there are two data paths, Data0 and Data1. As shown in Figure 9, these paths are normally found at high levels and fall to zero in the presence of information.
-
+In Wiegand format there are two data paths, Data0 and Data1. As shown in Figure 1.0, these paths are normally found at high levels and fall to zero in the presence of information.
 ![wiegand](https://user-images.githubusercontent.com/10983937/47874598-4e15ae00-de25-11e8-8a18-f602d9f9d257.png)
+
 
 
 ![wiegand control](https://user-images.githubusercontent.com/10983937/47818922-1433a180-dd6a-11e8-847e-92920cf385d7.png)
