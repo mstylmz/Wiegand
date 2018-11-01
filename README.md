@@ -16,6 +16,7 @@ Figure 1.1 shows 26 bit wiegand format.There are parity bits in the beginning an
 
 ![5b0d4b888362d40b148a658c_26bit-wiegand](https://user-images.githubusercontent.com/10983937/47875561-e876f100-de27-11e8-9954-b6b192cd2ddf.png)
 
+Figure 1.2 is an example of the transition system. Wiegand protocol can be used in this structure.
 
 ![wiegand control](https://user-images.githubusercontent.com/10983937/47876245-e44bd300-de29-11e8-9242-cbe6d5c3c7e6.png)
 
