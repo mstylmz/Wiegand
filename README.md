@@ -15,7 +15,7 @@ In Wiegand format there are two data paths, Data0 and Data1. As shown in Figure 
 
 Figure 1.1 shows 26 bit wiegand format.
 
-![5b0d4b888362d40b148a658c_26bit-wiegand](https://user-images.githubusercontent.com/10983937/47875236-16a80100-de27-11e8-8a7b-3464dd35cde8.png)
+![5b0d4b888362d40b148a658c_26bit-wiegand](https://user-images.githubusercontent.com/10983937/47875561-e876f100-de27-11e8-9954-b6b192cd2ddf.png)
 
 
 
