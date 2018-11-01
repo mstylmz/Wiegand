@@ -8,7 +8,7 @@ Card readers are used to connect fingerprint scanners or other biometric readers
 
 How does the Wiegand Protocol work?
 
-A Wiegand card uses two short cables that store data magnetically on the card. When drawn through the card reader, the cables transmit either the high or low voltage signal as 1 and 0, respectively, so that the scroll is generated a binary data line to authenticate the card's credentials.
+In Wiegand format there are two data paths, Data0 and Data1. As shown in Figure 9, these paths are normally found at high levels and fall to zero in the presence of information.
 
 
 
