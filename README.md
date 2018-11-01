@@ -17,5 +17,7 @@ Figure 1.1 shows 26 bit wiegand format.There are parity bits in the beginning an
 ![5b0d4b888362d40b148a658c_26bit-wiegand](https://user-images.githubusercontent.com/10983937/47875561-e876f100-de27-11e8-9954-b6b192cd2ddf.png)
 
 
+![wiegand control](https://user-images.githubusercontent.com/10983937/47876245-e44bd300-de29-11e8-9242-cbe6d5c3c7e6.png)
 
-![wiegand control](https://user-images.githubusercontent.com/10983937/47818922-1433a180-dd6a-11e8-847e-92920cf385d7.png)
+
+
