@@ -12,7 +12,7 @@ In Wiegand format there are two data paths, Data0 and Data1. As shown in Figure 
 
 ![wiegand](https://user-images.githubusercontent.com/10983937/47875633-1a885300-de28-11e8-9f97-8e2a65b8b202.jpg)
 
-Figure 1.1 shows 26 bit wiegand format.
+Figure 1.1 shows 26 bit wiegand format.There are parity bits in the beginning and the probe.
 
 ![5b0d4b888362d40b148a658c_26bit-wiegand](https://user-images.githubusercontent.com/10983937/47875561-e876f100-de27-11e8-9954-b6b192cd2ddf.png)
 
