@@ -1,6 +1,6 @@
 # 26 Bit Wiegand Protocol
 
-What is the Wiegand Protocol? 
+# What is the Wiegand Protocol? 
 
 Also known as the Wiegand interface, the Wiegand Protocol is a cabling standard for access control systems and card readers.
 
